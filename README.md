@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6gj3gm1xsgbm86bk?svg=true)](https://ci.appveyor.com/project/NeuroK-hub/ajs-9-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/g6tsuxur0oar5vv5?svg=true)](https://ci.appveyor.com/project/NeuroK-hub/ajs-9-1)
